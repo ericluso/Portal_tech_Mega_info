@@ -10,7 +10,7 @@ body {
   font-family: "Montserrat", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   color: #ffffff;
   background: #000;
-  background-image: url("fundo.png.png");
+  background-image: url("fundo.png");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -225,6 +225,7 @@ body::before {
     padding: 8px 14px;
   }
 }
+
 
 
 
